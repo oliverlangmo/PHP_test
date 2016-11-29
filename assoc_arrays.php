@@ -10,7 +10,6 @@
      echo print_r($names);
 
 
-
     ?>
   </body>
 </html>
