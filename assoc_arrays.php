@@ -8,7 +8,6 @@
     <?php
      $names = array("first_name" => 'Oliver', "last_name" => 'Langmo');
      echo print_r($names);
-
     ?>
   </body>
 </html>
